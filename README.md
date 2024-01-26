@@ -1,2 +1,2 @@
-# čin-sup a.s 2023-2025
+# čin-sup a.s.
 https://koloe17.github.io/cin-sup/
